@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Erikybrito/bb13c428742fbc4c8749aa3f75e4008d/raw/50e852f1606b93211e59998e3ee409ac4fdc20f9/githubcart.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/kaykybrito/632e4b4f8cd42fa37e6b9221b5fca8f4/raw/49029e733787eab41a6918cef00722117ee2990e/github-card.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Kayky Brito Diniz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaykybrito&color=yellow" alt="Profile views" /> </p>
 
